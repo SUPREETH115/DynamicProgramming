@@ -1,0 +1,7 @@
+Given a number,find the next highest number
+eg:input : 412
+   output: 421
+
+
+Link:http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
+Video:https://youtu.be/AfxHGNRtFac
