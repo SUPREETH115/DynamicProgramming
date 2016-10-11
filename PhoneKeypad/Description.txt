@@ -7,3 +7,6 @@ note:keypad 1 shd give $.
      keypad 0 shd give +.
      
      output:no of string with substring dg
+     
+     
+     http://code.geeksforgeeks.org/hFdxs2
