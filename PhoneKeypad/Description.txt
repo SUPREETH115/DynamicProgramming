@@ -1,0 +1,9 @@
+Refrenece: https://www.hackerrank.com/contests/freedom-fest-coding/challenges/phone-keypad/copy-from/7318626
+
+input: 234"dg"
+output:3
+
+note:keypad 1 shd give $.
+     keypad 0 shd give +.
+     
+     output:no of string with substring dg
