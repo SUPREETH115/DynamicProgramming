@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EggDrop {
+public class EggDrop2 {
 	public static int max(int i,int j)
 	{
 		return (i>=j?i:j);
