@@ -9,7 +9,6 @@ public class EggDrop2 {
  String ANSI_BLACK = "\u001B[30m";
  String ANSI_RED = "\u001B[31m";
 System.out.println(ANSI_RED + "This text is red!" + ANSI_RESET);
-;a
 	}
 
 
