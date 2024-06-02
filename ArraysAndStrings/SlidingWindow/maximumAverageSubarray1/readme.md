@@ -17,3 +17,4 @@ n == nums.length
 1 <= k <= n <= 105
 -104 <= nums[i] <= 104
 
+Link: https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75
